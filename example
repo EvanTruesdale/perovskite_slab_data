@@ -1,0 +1,16 @@
+Begin final coordinates
+
+
+
+CELL_PARAMETERS (angstrom)
+3.954927778	0	0
+0	3.954927778	0
+0	0	4.041726062
+
+ATOMIC_POSITIONS (crystal)
+Ba	0	0	0.00219642
+O	0.5	0.5	0.973889737
+Ti	0.5	0.5	0.518020264
+O	0.5	0	0.48494679
+O	0	0.5	0.48494679
+End final coordinates
